@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Loujayna Ben Saad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Software Engineering at SMU Medtech
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- 🌱 I’m currently studying Software Engineering at SMU Medtech
+
 
 <!---
 Loujayna1/Loujayna1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
